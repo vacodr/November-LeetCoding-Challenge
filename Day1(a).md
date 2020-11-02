@@ -7,7 +7,7 @@ link: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-in
 Problem type: Easy
 
 ## Code
-```
+```java
 /**
  * Definition for singly-linked list.
  * public class ListNode {
